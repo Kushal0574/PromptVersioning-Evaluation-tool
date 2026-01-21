@@ -1,6 +1,6 @@
 # PromptOps — Prompt Versioning & Evaluation Tool
 
-PromptOps is a CLI-first tool for **versioning, evaluating, and regression-testing prompts**
+PromptOps is a CLI-first tool for **versioning, evaluating, and regression-testing prompts
 backed by SQLite. It mirrors real-world LLM experimentation workflows.
 
 ## Features
@@ -9,7 +9,7 @@ backed by SQLite. It mirrors real-world LLM experimentation workflows.
 - Evaluation pipelines
 - Scoring + regression detection
 - Clean modular architecture
-- Interview-ready design
+
 
 ## Architecture
 - `cli.py` — CLI entry point
